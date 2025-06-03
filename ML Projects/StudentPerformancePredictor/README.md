@@ -45,8 +45,8 @@ Visual Analysis: Provides a pie chart of input data and a comparison graph showi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/student-performance-prediction.git
-   cd student-performance-prediction
+   git clone https://github.com/harshhrawte/GradientIQ.git
+   cd GradientIQ
    ```
 
 2. **Install dependencies**
